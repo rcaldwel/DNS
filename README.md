@@ -12,10 +12,12 @@ Install [Package Control](http://wbond.net/sublime_packages/package_control). Gi
 
 Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clone this repository:
 
-    git clone git://github.com/rcaldwel/sublime-dns
+    git clone git://github.com/rcaldwel/dns
 
 
 # Usage
+    I have not tested this yet in Windows.  This plugin loads a couple of socket functions so it will need
+    to have python installed locally.  Will test on windows soon.
 
 
 
@@ -25,6 +27,6 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
 
 # Information
 
-Source: https://github.com/rcaldwel/sublime-dns
+Source: https://github.com/rcaldwel/dns
 
 Authors: [Roger Caldwell](https://github.com/rcaldwel/)
