@@ -1,4 +1,4 @@
-# Gist
+# DNS
 
 A [Sublime Text 2](http://www.sublimetext.com/) plugin for doing inline DNS lookups.
 
