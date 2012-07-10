@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "dns: Host name lookup",
+        "command": "host_lookup"
+    },
+    {
+        "caption": "dns: IP address lookup",
+        "command": "name_lookup"
+    }
+]

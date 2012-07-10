@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+r", "super+i"], "command": "name_lookup"},
+    { "keys": ["super+r", "super+h"], "command": "host_lookup"}
+]

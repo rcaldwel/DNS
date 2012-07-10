@@ -1,0 +1,4 @@
+[
+    { "command": "host_lookup", "caption": "dns hostname lookup" },
+    { "command": "name_lookup", "caption": "dns ip lookup" }
+]
