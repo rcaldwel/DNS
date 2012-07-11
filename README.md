@@ -15,13 +15,22 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
     git clone git://github.com/rcaldwel/dns
 
 
-# Usage
-    I have not tested this yet in Windows.  This plugin loads a couple of socket functions so it will need
-    to have python installed locally.  Will test on windows soon.
+## Usage
+
+To use select a IP or a hostname.  Activate the plugin by the key bindings
+or the command pallet.  Command pallet commands are prefixed with dns.
+
 
 
 
 # Default key bindings:
+OSX:
+cmd+r, cmd+i (name to IP)
+cmd+r, cmd+i (IP to name)
+
+Win/Linux:
+ctrl+r, ctrl+i (name to IP)
+ctrl+r, ctrl+i (IP to name)
 
 
 
