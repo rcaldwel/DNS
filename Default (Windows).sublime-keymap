@@ -1,4 +1,4 @@
 [
-    { "keys": ["crtl+r", "crtl+i"], "command": "name_lookup"},
-    { "keys": ["crtl+r", "crtl+h"], "command": "host_lookup"}
+    { "keys": ["ctrl+r", "ctrl+i"], "command": "name_lookup"},
+    { "keys": ["ctrl+r", "ctrl+h"], "command": "host_lookup"}
 ]
