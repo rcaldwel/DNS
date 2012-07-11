@@ -15,10 +15,12 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages…`). Then clon
     git clone git://github.com/rcaldwel/dns
 
 
-## Usage
+# Usage
 
 To use select a IP or a hostname.  Activate the plugin by the key bindings
 or the command pallet.  Command pallet commands are prefixed with dns.
+
+In order to do multiple at once make sure you split your selection into lines first.
 
 
 
