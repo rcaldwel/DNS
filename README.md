@@ -6,7 +6,7 @@ A [Sublime Text 2](http://www.sublimetext.com/) plugin for doing inline DNS look
 
 ## Package Control
 
-Install [Package Control](http://wbond.net/sublime_packages/package_control). Gist will show up in the package list. This is the recommended installation method.
+Install [Package Control](http://wbond.net/sublime_packages/package_control). DNS Lookups will show up in the package list. This is the recommended installation method.
 
 ## Manual installation
 
