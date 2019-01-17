@@ -1,5 +1,6 @@
 # Ignore compiled Python files
 *.pyc
+.idea
 
 # Ignore cache files
 *.cache
@@ -10,3 +11,5 @@
 
 # Ignore Mac Desktop Services files
 .DS_Store
+
+test1.py
